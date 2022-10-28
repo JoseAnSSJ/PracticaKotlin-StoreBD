@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_opcion_items">
+        <item>@string/dialog_delete_confirm</item>
+        <item>@string/dialog_call</item>
+        <item>@string/dialog_website</item>
+        <item></item>
+    </string-array>
+</resources>
